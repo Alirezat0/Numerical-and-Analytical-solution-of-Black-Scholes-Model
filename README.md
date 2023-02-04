@@ -1,5 +1,11 @@
 # Numerical-and-Analytical-solution-of-Black-Scholes-Model
-there is 2 code : first one is for analytic solution 2d (also it contains a 3d plot). second one is numerical solution in 2d where x is stock price($) and y is option price it calculates 2 mentioned solution where: K = 100 strike price r = 0.12 risk-free interest rate q = 0 dividend yield sigma = 0.1 volatility of the stock price T = 1 time to maturity
+there is 2 code : first one is for analytic solution 2d (also it contains a 3d plot). second one is numerical solution in 2d where x is stock price($) and y is option price it calculates 2 mentioned solution where:
+K = 100 strike price 
+r = 0.12 risk-free interest rate 
+q = 0 dividend yield
+sigma = 0.1
+volatility of the stock price
+T = 1 time to maturity
 
 This function C_BS calculates the Black-Scholes formula for the price of a European call option
 
